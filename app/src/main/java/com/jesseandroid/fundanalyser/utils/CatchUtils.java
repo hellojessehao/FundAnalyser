@@ -1,7 +1,5 @@
 package com.jesseandroid.fundanalyser.utils;
 
-import com.jesseandroid.fundanalyser.network.NetThread;
-
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

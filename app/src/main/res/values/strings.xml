@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FundAnalyser</string>
+    <string name="permission_deny_hint">检测到有权限没有授权，应用将于3秒后关闭。</string>
 </resources>
